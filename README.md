@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou Alex Sandro 👋
 
-<!--
-**Alexsandro-coder/Alexsandro-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Analista de TI N2 em ambiente escolar
+📊 Estudando Python, Pandas e SQL
+🚀 Interessado em Data Analytics e Automação
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Pandas
+- SQL
+- Git
+- GitHub
+- N8N
+
+## Projeto em destaque
+
+### School Data Analytics
+Sistema para análise de desempenho escolar e identificação automática de alunos em recuperação utilizando Python e Pandas.
+
+Principais funcionalidades:
+- Análise por bimestre
+- Identificação de alunos em recuperação
+- Relatórios automáticos
+- Geração de indicadores pedagógicos
+
+## Atualmente estudando
+
+- SQL
+- Power BI
+- Automação com N8N
